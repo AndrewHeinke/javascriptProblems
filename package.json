@@ -1,0 +1,22 @@
+{
+  "name": "javascriptproblems",
+  "version": "1.0.0",
+  "description": "Going through Martyr2’s Mega Project List, http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/",
+  "main": "countVowels.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewHeinke/javascriptProblems.git"
+  },
+  "author": "Andrew Heinke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewHeinke/javascriptProblems/issues"
+  },
+  "homepage": "https://github.com/AndrewHeinke/javascriptProblems#readme",
+  "dependencies": {
+    "inquirer": "^1.1.2"
+  }
+}
